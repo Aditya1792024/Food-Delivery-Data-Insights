@@ -18,12 +18,50 @@ This project exemplifies how SQL can unlock data's potential to inform decision-
 <h2>Procedure:</h2>
 <p>To extract meaningful insights from the food delivery dataset, I formulated multiple analytical questions aimed at uncovering trends and patterns.</p>
 <h3>Questions:</h3>
-<ul>
+<ol>
   <li>
     Find top 3 outlets by cuisine type without using limit and top function.
+    <p></p>
+    <img src="/Images/Q1.jpg" width="1039" height="200"/>
   </li>
-</ul>
-<img src="Images/Q1" alt="Description of the image" width="500" />
+  <p></p>
+  <li>
+    Find the daily new customer count from the launch date.
+    <p></p>
+    <img src="/Images/Q2.jpg" width="631" height="200"/>
+  </li>
+  <p></p>
+  <li>
+    Count of all the users who were acquired in Jan 2025 and only placed one order in Jan and did not place any other order.
+    <p></p>
+    <img src="/Images/Q3.jpg" width="703" height="171"/>
+  </li>
+  <p></p>
+  <li>
+    List all the customers with no order in the last 7 days but were acquired one month ago with their first order on promo.
+    <p></p>
+    <img src="/Images/Q4.jpg" width="900" height="270"/>
+  </li>
+  <p></p>
+  <li>
+    Growth team is planning to create a trigger that will target customers after their every 3rd order with personalized communication and they have asked you to create a query for this.
+    <p></p>
+    <img src="/Images/Q5.jpg" width="900" height="270"/>
+  </li>
+  <p></p>
+  <li>
+    List customers who placed more than one order and all their orders on a promo only.
+    <p></p>
+    <img src="/Images/Q6.jpg" width="900" height="270"/>
+  </li>
+  <p></p>
+  <li>
+    What percent of customers were originally acquired in jan 2025 compared to all customers acquired in that month. Originally acquired means Placed their first order without promo code.
+    <p></p>
+    <img src="/Images/Q7.jpg" width="900" height="270"/>
+  </li>
+</ol>
+
 
 
 

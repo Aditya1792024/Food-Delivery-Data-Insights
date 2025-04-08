@@ -40,27 +40,30 @@ This project exemplifies how SQL can unlock data's potential to inform decision-
   <li>
     List all the customers with no order in the last 7 days but were acquired one month ago with their first order on promo.
     <p></p>
-    <img src="/Images/Q4.jpg" width="900" height="270"/>
+    <img src="/Images/Q4.jpg" width="1089" height="200"/>
   </li>
   <p></p>
   <li>
     Growth team is planning to create a trigger that will target customers after their every 3rd order with personalized communication and they have asked you to create a query for this.
     <p></p>
-    <img src="/Images/Q5.jpg" width="900" height="270"/>
+    <img src="/Images/Q5.jpg" width="1330" height="200"/>
   </li>
   <p></p>
   <li>
     List customers who placed more than one order and all their orders on a promo only.
     <p></p>
-    <img src="/Images/Q6.jpg" width="900" height="270"/>
+    <img src="/Images/Q6.jpg" width="880" height="154"/>
   </li>
   <p></p>
   <li>
     What percent of customers were originally acquired in jan 2025 compared to all customers acquired in that month. Originally acquired means Placed their first order without promo code.
     <p></p>
-    <img src="/Images/Q7.jpg" width="900" height="270"/>
+    <img src="/Images/Q7.jpg" width="1288" height="216"/>
   </li>
 </ol>
+<h2>Conclusion:</h2>
+<p>This project provided me with a hands-on opportunity to utilize SQL effectively and efficiently to tackle real-world business problems. Throughout the project, I applied a variety of SQL concepts, ranging from foundational commands like SELECT, WHERE, GROUP BY, and ORDER BY, to more advanced techniques such as Joins, Subqueries, Common Table Expressions (CTEs), and Window Functions.</p>
+<p>By strengthening my fundamentals and gaining exposure to real-world scenarios, this project was instrumental in elevating my SQL knowledge to the next level.</p>
 
 
 
